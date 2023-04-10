@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-  int num = 10;
+  int num = 22;
   char letter = 'A';
-  char name[] = "John Doe";
+  char name[] = "Sara";
   float decimal = 3.14;
 
   printf("Integer value: %d\n", num);
